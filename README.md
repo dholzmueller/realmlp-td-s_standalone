@@ -6,7 +6,7 @@ a neural network for tabular datasets, consisting of
   - one-hot encoding with custom missing/unknown value encoding 
 and encoding binary categories to 1/-1
   - robust scaling and smooth clipping
-- the MLP implementation (212 lines of code) in `mlp.py`.
+- the MLP implementation (211 lines of code) in `mlp.py`.
 
 The implementation is standalone in the sense that it only uses 
 `numpy`, `pandas`, `sklearn`, and `torch`. 
