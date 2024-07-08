@@ -13,7 +13,7 @@ The implementation is standalone in the sense that it only uses
 This code is not available on `pip` since it can just be copied.
 
 RealMLP-TD-S is also available with more functionality 
-in [PyTabKit](github.com/dholzmueller/pytabkit).
+in [PyTabKit](https://github.com/dholzmueller/pytabkit).
 
 The file `check_mlp.py` 
 checks that this implementation matches the one in PyTabKit
